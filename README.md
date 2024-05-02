@@ -21,7 +21,7 @@ via console:
 
 for the Rplots.pdf:
 
-for the specific file you run it will determine the output of the Rplots.pdf. 
+the specific file you run it will determine the output of the Rplots.pdf. More information below &#8595;
 
 * `19.R` will output the normal scatterplot of all data presented
 * `xtra.R` will output new graph with line of best fit and `la_deaths` table
